@@ -70,8 +70,8 @@ export default function BirthdayInvitation() {
               <div className="flex items-center gap-3 p-3 bg-pink-50 rounded-lg">
                 <Clock className="w-5 h-5 text-pink-600" />
                 <div>
-                  <p className="font-semibold text-gray-800">7:00 PM – 10:00 PM</p>
-                  <p className="text-sm text-gray-600">Three hours of celebration!</p>
+                  <p className="font-semibold text-gray-800">6:00 PM – 10:00 PM</p>
+                  <p className="text-sm text-gray-600">Four hours of celebration!</p>
                 </div>
               </div>
 
