@@ -157,7 +157,7 @@ export default function BirthdayInvitation() {
           <div className="space-y-4">
             <div className="flex justify-center">
               <img 
-                src="https://z-cdn-media.chatglm.cn/files/5c7c121e-6366-4ddd-8c94-f5e3eec3a51e_Snapchat-473120294%20%282%29.png?auth_key=1762352391-70cd590464ce424eaa7aa8c78b3573d7-0-510c95f9dfb41256d5e04a3700b3a506"
+                src="https://raw.githubusercontent.com/tanmaymishra91/tanmaybirthday/refs/heads/main/src/app/Snapchat-473120294.jpg"
                 alt="Tanmay Mishra"
                 className="w-32 h-32 rounded-full object-cover border-4 border-purple-200"
               />
