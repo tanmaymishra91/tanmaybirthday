@@ -107,7 +107,7 @@ export default function BirthdayInvitation() {
                 <p className="font-semibold text-gray-800">Tanmay Mishra</p>
                 <div className="flex items-center gap-2 mt-1">
                   <Phone className="w-4 h-4 text-gray-600" />
-                  <p className="text-sm text-gray-600">+91 9510977943</p>
+                  <a href="tel:+919510977943" className="text-sm text-gray-600 hover:underline">+91 9510977943</a>
                 </div>
               </div>
               
