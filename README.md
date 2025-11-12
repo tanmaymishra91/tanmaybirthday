@@ -74,6 +74,10 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to see your application running.
 
+## 🎬 Live Preview
+
+See a live demo of this scaffold at [https://bday.aozoradesu.com](https://bday.aozoradesu.com)
+
 ## 🤖 Powered by Aozoradesu
 
 This scaffold is optimized for use with [Aozoradesu](https://aozoradesu.com) - your AI assistant for:
